@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "fragileblockmod",
+    "name": "FragileBlockMod",
+    "description": "A mod that adds a fragile block which can decay over time",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Example"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
